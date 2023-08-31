@@ -1,3 +1,4 @@
 Write code here 
 RCC->APB2ENR |= (1<<14);                         // Enable the System clock configuration
     SYSCFG->EXTICR[3] &= ~(0<<12);
+Hi 
